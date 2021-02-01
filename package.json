@@ -1,0 +1,24 @@
+{
+  "name": "cfx-transfer-station",
+  "version": "1.0.0",
+  "description": "CFX transfer station",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conflux-fans/cfx-transfer-station.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conflux-fans/cfx-transfer-station/issues"
+  },
+  "homepage": "https://github.com/conflux-fans/cfx-transfer-station#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "js-conflux-sdk": "^1.5.9"
+  }
+}
