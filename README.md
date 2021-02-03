@@ -37,3 +37,10 @@ let hash = await contract.transfer('target-address').sendTransaction({
     value: 1000  // the cfx amount in Drip
 });
 ```
+
+
+### Wrapped Conflux (WCFX)
+wCFX is a wrapped conflux erc20 token and been sponsored, which means you can witch CFX to wCFX, and wCFX transfer is gas free.
+
+* mainnet: cfx:acg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx
+* testnet: cfxtest:achs3nehae0j6ksvy1bhrffsh1rtfrw1f6w1kzv46t
